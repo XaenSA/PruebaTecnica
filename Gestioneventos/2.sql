@@ -20,4 +20,4 @@ VALUES ('Concierto Rock', 'Concierto al aire libre', '2024-12-15', 100);
 INSERT INTO Reservas (evento_id, nombre_usuario, email, numero_plazas)
 VALUES (1, 'Juan Pérez', 'juan@example.com', 2);
 
-SELECT * FROM Reservas;
+
