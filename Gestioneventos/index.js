@@ -11,7 +11,7 @@ app.use(cors());
 const db = mysql.createConnection({
     host: 'localhost',       
     user: 'root',            
-    password: 'contraseña123456', 
+    password: 'password', 
     database: 'gestion_eventos' 
 });
 
